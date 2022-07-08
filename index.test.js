@@ -18,6 +18,6 @@ describe('fizzBuzz()', () => {
 
     it('Otherwise, return the number', () => {
         expect(FizzBuzz(2)).toBe('2');
-        expect(FizzBuzz(18)).toBe('18');
+        expect(FizzBuzz(19)).toBe('19');
     });
 });
