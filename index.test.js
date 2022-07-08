@@ -1,0 +1,1 @@
+const FizzBuzz = require('./index');

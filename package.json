@@ -5,21 +5,11 @@
   "main": "index.js",
   "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Aruna-Duraisamy/Jest-FizzBuzz.git"
-  },
-  "keywords": [
-    "jest",
-    "tdd",
-    "fizzbuzz"
-  ],
   "author": "aruna",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Aruna-Duraisamy/Jest-FizzBuzz/issues"
-  },
-  "homepage": "https://github.com/Aruna-Duraisamy/Jest-FizzBuzz#readme"
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
 }

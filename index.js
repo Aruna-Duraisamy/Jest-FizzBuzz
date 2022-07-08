@@ -5,3 +5,4 @@
  * Print 'FizzBuzz' for multiples of 3 and 5
  * Otherwise, Print the number
 */
+module.exports = (num) => `${num}`;
